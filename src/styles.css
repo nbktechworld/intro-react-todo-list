@@ -1,0 +1,30 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.todo-input-container {
+  display: flex;
+}
+
+.todo-input {
+  flex: 1;
+  padding: 8px;
+}
+
+.add-button {
+  padding: 8px 16px;
+}
+
+.todo-list {
+  font-size: 24px;
+}
+
+.remove-button {
+  margin-right: 16px;
+  padding: 4px 8px;
+  background-color: red;
+  color: #ffffff;
+  border-radius: 4px;
+  border: 2px solid black;
+}
